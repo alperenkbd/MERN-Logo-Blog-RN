@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "logo-blog",
+    "slug": "logo-blog",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "logo-blog"
+}
